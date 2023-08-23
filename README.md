@@ -1,1 +1,1 @@
-My first pairing programming task
+Our first pairing programming task
